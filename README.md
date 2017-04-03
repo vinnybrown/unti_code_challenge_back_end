@@ -1,4 +1,4 @@
-﻿# Unity Code Challenge (Back-End Edition)
+# Unity Code Challenge (Back-End Edition)
 
 This is the code challenge for candidates of Team Unity. It is intended to be
 completed using Visual Studio 2015 or 2017. You can download Visual Studio
